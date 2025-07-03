@@ -270,3 +270,13 @@ html {
     }
     
 }
+
+
+@media screen and (max-width: 522px){
+
+.meu-nome{
+    font-size: 36px;
+}
+
+    
+}
